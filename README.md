@@ -8,7 +8,7 @@ Everyday I upload the days coding challenges that I'm doing.
 
 ## How It's Made:
 
-**Tech used:** Plain ol' Javascript
+**Tech used:** Plain old Javascript
 
 All I do is make a new file and add the days kata and push. Rinse and repeat.
 
