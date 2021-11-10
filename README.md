@@ -1,4 +1,4 @@
-# My Codewar Challenges
+# My Codewar Challenges.    
 
 Everyday I upload the days coding challenges that I'm doing.
 
