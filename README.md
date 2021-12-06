@@ -7,7 +7,7 @@ Everyday I upload the days coding challenges that I'm doing.
 ![ninja-gif](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)
  
 ## How It's Made: 
-    
+        
 **Tech used:** Plain old Javascript
 
 All I do is make a new file and add the days kata and push. Rinse and repeat.
