@@ -3,7 +3,7 @@
 Everyday I upload the days coding challenges that I'm doing.                                                       
 
 **Here's a link to my Codewar profile:** https://www.codewars.com/users/michellelavergne
-
+     
 ![ninja-gif](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)
  
 ## How It's Made:      
